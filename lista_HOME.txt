@@ -1,0 +1,4 @@
+total 12
+drwxr-xr-x 4 giu09 giu09 4096 Oct 12 16:25 Documentos
+drwxr-xr-x 2 giu09 giu09 4096 Aug 25 19:07 Downloads
+drwxr-xr-x 2 giu09 giu09 4096 Aug 25 17:24 Imagens
